@@ -12,12 +12,15 @@
 
 For CVE there is a scoring system called **[CVSS](https://www.cvedetails.com/)** (common vulnerability scoring system).
 
+In Cybersecurity there is term called **CIA Traid**, it represents **Confidentiality**, **Integrity**, **Availability**.
 
 # Ethical Hacking
 
 **Hacking** --> Simply Expading Internet Boundries, Functionalities or Attacking the systems or devices that are connected to internet.\
 **Ethical Hacking** --> Doing hacking for good purposes.\
 **Criminal Hacking or Cracking** --> Doing hacking for bad purposes.
+
+**Hacker** --> One who enjoys the intellectual challenge of ***creative problem solving*** or ***overcoming limitations***.
 
 ### Phishing
 In Digital world Phishing means Art of Tricking People which is a technic used by hackers.\
@@ -46,3 +49,7 @@ Once the malware is installed the ***Attacker*** can lock our device and we cann
 **Denial of Service** --> Denying the access to authorized users, where we can"t access our information.
 
 **Elevation of Privlege** --> Gaining knowledge about something or someone without having authorization/permission.
+
+## Ethical Hacking Stratagies
+#### 1.Penetration Testing
+
