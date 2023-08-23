@@ -25,3 +25,15 @@ Once the malware is installed the ***Attacker*** can lock our device and we cann
 - Spoofing, Tampering, Repudiation, Info Disclosure, Denial of Service, Elevation of Privlege
 
 **STRIDE** framework was developed by Microsoft, It helps to understand different kinds of cyber threats and how to counter them.
+
+**Spoofing** --> Impersonating something or someone else, more like a using fake ID's to trick people.\
+
+**Tampering** --> Modifying someone data or information without authorization.\
+
+**Repudiation** --> Denying the wrongdoings or an action that are done by you.\ 
+
+**Info Disclosure** --> Exposing information to someone who are not authorized to see it.\
+
+**Denial of Service** --> Denying the access to authorized users, where we can"t access our information.\
+
+**Elevation of Privlege** --> Gaining knowledge about something or someone without having authorization/permission.
