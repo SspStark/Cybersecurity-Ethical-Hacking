@@ -50,11 +50,32 @@ Once the malware is installed the ***Attacker*** can lock our device and we cann
 
 **Elevation of Privlege** --> Gaining knowledge about something or someone without having authorization/permission.
 
-## Ethical Hacking Stratagies
+## Cybersecurity & Ethical Hacking Approaches and Methodoligies
 ### 1.Penetration Testing
 - Step 1: **Gathering Intelligence** about the target.
 - step 2: **Vulnerability Assessment** --> selecting ways that can be easily accessed.
 - step 3: **Exploitation** --> Taking advantage of entering into someone's device or system.
 - step 4: **Post Exploitation** --> Creating backdoors to enter or access the target whenever they want.
 - step 5: **Leaving no Traces** --> Clearing all the proofs like you were never there to not to get caught.
+
+### 2.Cyber Kill Chain
+### 3.MITRE ATT&CK Framework
+- **ATT&CK** --> Adversarial Tactics, Techniques & Common Knowledge. 
+- It is a huge Knowledge base of **hacking techniques** based on real-world cyberattacks.
+- It is an attack oriented approach, where we have to think and work like an attacker to stop the attacker.
+### 4.NIST Cybersecurity Framework
+- **NIST** --> National Institute of Standards and Technology.
+- It is an US government agency, it is a defence oriented approach.
+### Threat Modelling
+- Analyzing and identifying attacks(threats) **before** then happen.
+- Analysing the blueprint of a system.
+- **STRIDE** is a Threat Modelling Framework.
+#### Basic Technical Skills & Tools of Ethical Hacker
+- Knowledge of programming
+- Understanding of databases
+- Knowledge of search engines and servers
+- Scripting Knowledge
+- Knowledge of hacking tools
+- Knowledge of multiple OS
+- Networking skills
 
