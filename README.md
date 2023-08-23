@@ -4,6 +4,12 @@
 **Cybersecurity** --> Protecting Data, Network, Applications, Systems everything that connceted to Internet.\
 **Cybersecurity** Aspects are like Information Security, Webapplication Security, Mobileapplication Security etc.
 
+### CVE --> Common Vulnerabilities and Exposures
+**CVE** is a list of records, each containing an identification number, and details for publicly known vulnerabilities.
+
+For CVE there is a scoring system called **[CVSS](https://www.cvedetails.com/)** (common vulnerability scoring system).\
+
+
 # Ethical Hacking
 
 **Hacking** --> Simply Expading Internet Boundries, Functionalities or Attacking the systems or devices that are connected to internet.\
