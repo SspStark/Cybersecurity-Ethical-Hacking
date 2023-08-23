@@ -51,5 +51,10 @@ Once the malware is installed the ***Attacker*** can lock our device and we cann
 **Elevation of Privlege** --> Gaining knowledge about something or someone without having authorization/permission.
 
 ## Ethical Hacking Stratagies
-#### 1.Penetration Testing
+### 1.Penetration Testing
+- Step 1: **Gathering Intelligence** about the target.
+- step 2: **Vulnerability Assessment** --> selecting ways that can be easily accessed.
+- step 3: **Exploitation** --> Taking advantage of entering into someone's device or system.
+- step 4: **Post Exploitation** --> Creating backdoors to enter or access the target whenever they want.
+- step 5: **Leaving no Traces** --> Clearing all the proofs like you were never there to not to get caught.
 
