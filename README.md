@@ -8,7 +8,7 @@
 
 **Hacking** --> Simply Expading Internet Boundries, Functionalities or Attacking the systems or devices that are connected to internet.\
 **Ethical Hacking** --> Doing hacking for good purposes.\
-**Criminal Hacking or Cracking** --> Doing hacking for bad purposes.\
+**Criminal Hacking or Cracking** --> Doing hacking for bad purposes.
 
 ### Phishing
 In Digital world Phishing means Art of Tricking People which is a technic used by hackers.\
@@ -26,14 +26,14 @@ Once the malware is installed the ***Attacker*** can lock our device and we cann
 
 **STRIDE** framework was developed by Microsoft, It helps to understand different kinds of cyber threats and how to counter them.
 
-**Spoofing** --> Impersonating something or someone else, more like a using fake ID's to trick people.\
+**Spoofing** --> Impersonating something or someone else, more like a using fake ID's to trick people.
 
-**Tampering** --> Modifying someone data or information without authorization.\
+**Tampering** --> Modifying someone data or information without authorization.
 
-**Repudiation** --> Denying the wrongdoings or an action that are done by you.\ 
+**Repudiation** --> Denying the wrongdoings or an action that are done by you.
 
-**Info Disclosure** --> Exposing information to someone who are not authorized to see it.\
+**Info Disclosure** --> Exposing information to someone who are not authorized to see it.
 
-**Denial of Service** --> Denying the access to authorized users, where we can"t access our information.\
+**Denial of Service** --> Denying the access to authorized users, where we can"t access our information.
 
 **Elevation of Privlege** --> Gaining knowledge about something or someone without having authorization/permission.
