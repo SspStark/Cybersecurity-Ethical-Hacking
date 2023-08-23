@@ -1,6 +1,6 @@
 # Cybersecurity
 
- **Cyber** --> Interconnected Things, Devices that connnected to internet or Digital world.
+ **Cyber** --> Interconnected Things, Devices that connnected to internet or Digital world.\
 **Cybersecurity** --> Protecting Data, Network, Applications, Systems everything that connceted to Internet.
 **Cybersecurity** Aspects are like Information Security, Webapplication Security, Mobileapplication Security etc.
 
