@@ -78,4 +78,3 @@ Once the malware is installed the ***Attacker*** can lock our device and we cann
 - Knowledge of hacking tools
 - Knowledge of multiple OS
 - Networking skills
-
