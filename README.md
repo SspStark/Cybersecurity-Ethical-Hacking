@@ -1,13 +1,13 @@
 # Cybersecurity
 
  **Cyber** --> Interconnected Things, Devices that connnected to internet or Digital world.\
-**Cybersecurity** --> Protecting Data, Network, Applications, Systems everything that connceted to Internet.\
+**Cybersecurity** --> Protecting Data, Network, Applications, Systems everything that connceted to Internet.\ **The Practice of defending cyberspace from cyber attacks**.\
 **Cybersecurity** Aspects are like Information Security, Webapplication Security, Mobileapplication Security etc.
 
 ### CVE --> Common Vulnerabilities and Exposures
 **CVE** is a list of records, each containing an identification number, and details for publicly known vulnerabilities.
 
-For CVE there is a scoring system called **[CVSS](https://www.cvedetails.com/)** (common vulnerability scoring system).\
+For CVE there is a scoring system called **[CVSS](https://www.cvedetails.com/)** (common vulnerability scoring system).
 
 
 # Ethical Hacking
