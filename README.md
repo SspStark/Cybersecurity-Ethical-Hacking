@@ -23,7 +23,7 @@ In Cybersecurity there is term called **CIA Traid**, it represents **Confidentia
 **Hacker** --> One who enjoys the intellectual challenge of ***creative problem solving*** or ***overcoming limitations***.
 
 ### Phishing
-In Digital world Phishing means Art of Tricking People which is a technic used by hackers.\
+In Digital world Phishing means Art of Tricking People which is a technique used by hackers.\
 Most of the Phishing happen via sending Fake Emails and also Fake Messages to install Malware(malicious software) in our device to steal our information.
 
 #### Ransomeware
@@ -51,6 +51,12 @@ Once the malware is installed the ***Attacker*** can lock our device and we cann
 **Elevation of Privlege** --> Gaining knowledge about something or someone without having authorization/permission.
 
 ## Cybersecurity & Ethical Hacking Approaches and Methodoligies
+### Ethical Hacking Strategies & Others
+- **Vulnerability Scanning** --> Automated(tool-based) scanning assets (IPs or applications) to identify low hanging known vulnerabilities in a system or application.
+- **Vulnerability Assessment** --> Automated & Manual assessment of assets in scope to find security vulnerabilities more over to understand which are weak,moderated,high risk vulnerabilities.
+- **Penetrating Testing** --> Exploiting vulnerabilities under controlled circumstances; in a professional, safe manager according to the rules of engagement, simply to check that system can be hacked using the all the possible vulnerabilities.
+- **Read Teaming** --> It is used to check the effectiveness of blue team's detection and response, act and use tactics & techniques like real hackers.
+- **Bug Bounties** --> Legally finding ***bugs***/***vulnerabilities***
 ### 1.Penetration Testing
 - Step 1: **Gathering Intelligence** about the target.
 - step 2: **Vulnerability Assessment** --> selecting ways that can be easily accessed.
